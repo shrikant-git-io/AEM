@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="ef2bcc39-e934-4331-adc5-f88c13e98052">
+    <jcr:content
+        cq:name="business-businessmen-classroom-267507.jpg"
+        cq:parentPath="/content/dam/full-stack-training/article-images"
+        dam:assetState="processed"
+        dam:relativePath="full-stack-training/article-images/business-businessmen-classroom-267507.jpg"
+        jcr:lastModified="{Date}2019-11-15T18:07:31.754+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2019-11-15T18:07:31.039+05:30"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}72"
+            dam:Physicalheightininches="{Decimal}15.0"
+            dam:Physicalwidthindpi="{Long}72"
+            dam:Physicalwidthininches="{Decimal}26.66666603088379"
+            dam:Progressive="no"
+            dam:sha1="c8759ca27c801c49209654cd3cb05023e954a347"
+            dam:size="{Long}300737"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2019-11-15T13:49:31.218+05:30"
+            jcr:lastModified="{Date}2019-11-15T18:07:17.409+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}1080"
+            tiff:ImageWidth="{Long}1920"/>
+        <related jcr:primaryType="nt:unstructured"/>
+        <usages
+            dam:score="{Long}1"
+            jcr:primaryType="nt:unstructured"
+            usedBy="[aem]">
+            <aem
+                jcr:primaryType="nt:unstructured"
+                count="{Long}1"
+                lastUsed="{Date}2018-08-11T20:09:08.673-06:00"/>
+        </usages>
+    </jcr:content>
+</jcr:root>

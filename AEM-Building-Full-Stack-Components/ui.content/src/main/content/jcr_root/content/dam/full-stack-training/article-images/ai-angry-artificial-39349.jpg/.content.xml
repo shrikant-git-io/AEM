@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="040e699d-6e86-4c1d-8979-8dbe6bc3368f">
+    <jcr:content
+        cq:name="ai-angry-artificial-39349.jpg"
+        cq:parentPath="/content/dam/full-stack-training/article-images"
+        dam:assetState="processed"
+        dam:relativePath="full-stack-training/article-images/ai-angry-artificial-39349.jpg"
+        jcr:lastModified="{Date}2019-11-15T18:07:44.428+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2019-11-15T18:07:20.791+05:30"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}72"
+            dam:Physicalheightininches="{Decimal}48.0"
+            dam:Physicalwidthindpi="{Long}72"
+            dam:Physicalwidthininches="{Decimal}72.0"
+            dam:Progressive="no"
+            dam:sha1="1f33288d9140faf6070d9e4953b05141f24af134"
+            dam:size="{Long}1916907"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2019-11-15T13:49:39.276+05:30"
+            jcr:lastModified="{Date}2019-11-15T18:07:42.141+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}3456"
+            tiff:ImageWidth="{Long}5184"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

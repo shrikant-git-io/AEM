@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="34b45a3c-69f7-4676-82ed-d0c7c39df809">
+    <jcr:content
+        cq:name="astronomy-constellation-cosmos-46168.jpg"
+        cq:parentPath="/content/dam/full-stack-training/article-images"
+        dam:assetState="processed"
+        dam:relativePath="full-stack-training/article-images/astronomy-constellation-cosmos-46168.jpg"
+        jcr:lastModified="{Date}2019-11-15T18:07:47.188+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2019-11-15T18:07:45.534+05:30"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}72"
+            dam:Physicalheightininches="{Decimal}39.33333206176758"
+            dam:Physicalwidthindpi="{Long}72"
+            dam:Physicalwidthininches="{Decimal}59.11111068725586"
+            dam:Progressive="no"
+            dam:sha1="7e73e0c4e3fdfc0465a908da629ce74f883d8957"
+            dam:size="{Long}2487161"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2019-11-15T13:49:31.396+05:30"
+            jcr:lastModified="{Date}2019-11-15T18:07:19.762+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}2832"
+            tiff:ImageWidth="{Long}4256"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>
