@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+	<!-- Notice that a mode="merge" attribute is added to the path. This ensures 
+		that the configurations deployed with a code deployment do not automatically 
+		override content or configurations that have been authored on the AEM instance 
+		directly. -->
+	<filter root="/conf/wknd" mode="merge" />
+	<filter root="/content/wknd" mode="merge" />
+	<filter root="/content/dam/wknd" mode="merge" />
+</workspaceFilter>

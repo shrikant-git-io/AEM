@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="nt:unstructured"
+    jcr:title="Tabs"
+    sling:resourceType="cq/gui/components/authoring/dialog">
+    <content
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="granite/ui/components/coral/foundation/fixedcolumns">
+        <items jcr:primaryType="nt:unstructured">
+            <tabs jcr:primaryType="nt:unstructured"
+                sling:resourceType="/libs/granite/ui/components/coral/foundation/tabs">
+                <items jcr:primaryType="nt:unstructured">
+                    <tab1 jcr:primaryType="nt:unstructured"
+                        jcr:title="Basic Form Fields"
+                        sling:resourceType="/libs/granite/ui/components/coral/foundation/container">
+                        <items jcr:primaryType="nt:unstructured">
+                            <textfield jcr:primaryType="nt:unstructured"
+                                sling:resourceType="/libs/granite/ui/components/coral/foundation/form/textfield"
+                                name="./textfield1"
+                                fieldLabel="Enter Text Here"/>
+                            <colorfield jcr:primaryType="nt:unstructured"
+                                sling:resourceType="/libs/granite/ui/components/coral/foundation/form/colorfield"
+                                name="./colors/selectedColor"
+                                fieldLabel="Choose a color"/>
+                        </items>
+                    </tab1>
+                    <tab2 jcr:primaryType="nt:unstructured"
+                          sling:resourceType="/libs/granite/ui/components/coral/foundation/container"
+                          jcr:title="Advanced Fields">
+                        <items jcr:primaryType="nt:unstructured">
+                            <required jcr:primaryType="nt:unstructured"
+                                       sling:resourceType="/libs/granite/ui/components/coral/foundation/form/textfield"
+                                       name="./requiredField"
+                                       fieldLabel="Enter Text Here"
+                                        required="{Boolean}true"/>
+                            <numberField jcr:primaryType="nt:unstructured"
+                                        sling:resourceType="/libs/granite/ui/components/coral/foundation/form/numberfield"
+                                        name="./numberfield"
+                                        min="{Long}10"
+                                        max="{Long}1000"
+                                        step="{Long}10"
+                                        typeHint="Long"/>
+                            <checkbox jcr:primaryType="nt:unstructured"
+                                         sling:resourceType="/libs/granite/ui/components/coral/foundation/form/checkbox"
+                                         name="./checkbox"
+                                         value="checked"
+                                         text="My Checkbox"
+                                         fieldLabel="FieldLabel"/>
+                            <multiField jcr:primaryType="nt:unstructured"
+                                    sling:resourceType="/libs/granite/ui/components/coral/foundation/form/multifield"
+                                    fieldLabel="Fruit"
+                                    composite="{Boolean}true">
+                                <field jcr:primaryType="nt:unstructured"
+                                       sling:resourceType="/libs/granite/ui/components/coral/foundation/container"
+                                       name="./fruits"
+                                       fieldLabel="Add a fruit">
+                                    <items jcr:primaryType="nt:unstructured">
+                                        <required jcr:primaryType="nt:unstructured"
+                                                  sling:resourceType="/libs/granite/ui/components/coral/foundation/form/textfield"
+                                                  name="./multiText"
+                                                  fieldLabel="Enter Text Here"
+                                                  />
+                                        <numberField jcr:primaryType="nt:unstructured"
+                                                     sling:resourceType="/libs/granite/ui/components/coral/foundation/form/numberfield"
+                                                     name="./multiNumber"
+                                                     min="{Long}10"
+                                                     max="{Long}1000"
+                                                     step="{Long}10"
+                                                     typeHint="Long"/>
+                                    </items>
+                                </field>
+                            </multiField>
+
+
+                        </items>
+                    </tab2>
+                </items>
+            </tabs>
+        </items>
+    </content>
+</jcr:root>
+

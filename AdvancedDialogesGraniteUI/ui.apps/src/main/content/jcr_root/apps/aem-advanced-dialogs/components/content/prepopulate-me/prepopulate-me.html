@@ -1,0 +1,62 @@
+<style>
+    .style-me ul li {
+       position:absolute;
+    }
+
+
+    .style-me.horizontal ul li {
+        position: relative;
+        display: inline-block;
+        padding: 0px 20px;
+        border-right: 1px solid #bebebe;
+    }
+
+    .style-me.horizontal  ul {
+        float: none;
+        text-align: center;
+        list-style: none;
+        position: relative;
+    }
+
+    .style-me.horizontal p {
+        max-width: 360px;
+        margin: 0 auto;
+    }
+
+    .style-me.vertical ul {
+        float: left;
+        position: relative;
+        width: 100px;
+        padding: 0;
+    }
+
+    .style-me.vertical p {
+        float: left;
+        width: 300px;
+        padding: 20px;
+    }
+
+    .style-me.vertical ul li {
+        position: relative;
+        border-bottom: 1px solid #e9e9e9;
+        padding: 5px;
+    }
+    .style-me.vertical ul {}
+
+    li.no-border {
+     border:none !important;
+    }
+
+
+</style>
+
+<div class="style-me ${properties.position}">
+    <ul>
+        <li>Java</li>
+        <li>C++</li>
+        <li>JavaScript</li>
+        <li>HTML</li>
+        <li class="no-border">CSS</li>
+    </ul>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+</div>

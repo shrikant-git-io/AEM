@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 6 resources" deleteContents="false" description="Delete 6 resources" element1="/aem-guides-wknd.ui.apps" element2="/aem-guides-wknd.it.launcher" element3="/aem-guides-wknd.ui.content" element4="/aem-guides-wknd" element5="/aem-guides-wknd.core" element6="/aem-guides-wknd.it.tests" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="6" stamp="1575442179576"/>
+</session>

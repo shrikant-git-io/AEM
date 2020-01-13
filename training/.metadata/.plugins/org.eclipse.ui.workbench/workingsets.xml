@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1573462064478_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1573462064494_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1573726105277_3" label="full-stack-training" name="full-stack-training">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/full-stack-training" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/full-stack-training.core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/full-stack-training.ui.apps" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/full-stack-training.ui.content" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/full-stack-training.it.tests" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/full-stack-training.it.launcher" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1573462068920_2" label="Window Working Set" name="Aggregate for window 1573462068920"/>
+</workingSetManager>

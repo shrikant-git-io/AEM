@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/examplebundle/examplebundle.iml" filepath="$PROJECT_DIR$/examplebundle/examplebundle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/project-example.iml" filepath="$PROJECT_DIR$/.idea/project-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/project-example.core.iml" filepath="$PROJECT_DIR$/core/project-example.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/it.launcher/project-example.it.launcher.iml" filepath="$PROJECT_DIR$/it.launcher/project-example.it.launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/it.tests/project-example.it.tests.iml" filepath="$PROJECT_DIR$/it.tests/project-example.it.tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui.apps/project-example.ui.apps.iml" filepath="$PROJECT_DIR$/ui.apps/project-example.ui.apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui.content/project-example.ui.content.iml" filepath="$PROJECT_DIR$/ui.content/project-example.ui.content.iml" />
+    </modules>
+  </component>
+</project>

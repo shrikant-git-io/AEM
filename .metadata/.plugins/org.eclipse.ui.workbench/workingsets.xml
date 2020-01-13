@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1573638436769_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1573638436788_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1573638592342_3" label="project-example" name="project-example">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/project-example.ui.apps" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/project-example.it.launcher" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/project-example.ui.content" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/project-example.examplebundle" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/project-example.core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/project-example.it.tests" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/project-example-bundle" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1573645153335_4" label="training-aem-project" name="training-aem-project"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1573647497255_5" label="training" name="training">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/training" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/training.core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/training.ui.content" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/training.ui.apps" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/training.it.tests" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/training.it.launcher" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1573713627691_6" label="full-stack-training" name="full-stack-training">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Pluralsight-AEM-Building-Full-Stack-Components" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/full-stack-training.it.launcher" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/full-stack-training.core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/full-stack-training.ui.apps" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/full-stack-training.ui.content" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/full-stack-training.it.tests" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1574070939916_7" label="aem-guides-wknd" name="aem-guides-wknd">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/aem-guides-wknd.ui.apps" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/aem-guides-wknd.ui.content" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/aem-guides-wknd.it.launcher" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/aem-guides-wknd" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/aem-guides-wknd.core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/aem-guides-wknd.it.tests" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1574832131119_8" label="aem-advanced-dialogs" name="aem-advanced-dialogs">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AdvancedDialogesGraniteUI" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/aem-advanced-dialogs.core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/aem-advanced-dialogs.it.launcher" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/aem-advanced-dialogs.it.tests" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/aem-advanced-dialogs.ui.apps" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/aem-advanced-dialogs.ui.content" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1578386554512_9" label="dbi-experience" name="dbi-experience">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dbi-experience" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dbi-experience-core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dbi-experience-ui-apps" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dbi-experience-ui-content" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dbi-experience-it-tests" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dbi-experience-it-launcher" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dbi-experience-dispatcher" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1573638443785_2" label="Window Working Set" name="Aggregate for window 1573638443784"/>
+</workingSetManager>

@@ -1,0 +1,30 @@
+package com.adobe.aem.guides.wknd.core.listeners;
+
+import org.apache.felix.scr.annotations.Component;
+import org.apache.felix.scr.annotations.Property;
+import org.apache.felix.scr.annotations.Reference;
+import org.apache.felix.scr.annotations.Service;
+import org.apache.sling.api.resource.LoginException;
+import org.apache.sling.api.resource.ResourceResolver;
+import org.apache.sling.api.resource.ResourceResolverFactory;
+import org.apache.sling.event.jobs.Job;
+
+import org.apache.sling.event.jobs.consumer.JobConsumer;
+import org.osgi.service.event.EventHandler;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import com.day.cq.wcm.api.Page;
+import com.day.cq.wcm.api.PageManager;
+
+import java.util.HashMap;
+import java.util.Map;
+
+//https://helpx.adobe.com/experience-manager/using/replication_events.html
+@Component(immediate = true)
+@Service(value={JobConsumer.class})
+@Property(name="event.topics", value = "com/adobe/wknd/core/replicationjob")
+public class ReplicationLogger implements EventHandler, Runnable {
+	private final Logger logger = LoggerFactory.getLogger(getClass());
+    
+	
+}

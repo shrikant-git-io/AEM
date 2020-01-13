@@ -1,0 +1,39 @@
+******************************************************
+********  Local Links ********************************
+
+Local AEM
+http://localhost:4502
+
+Local CRX/DE
+http://localhost:4502/crx/de
+
+Local Package Manager
+http://localhost:4502/crx/packmgr
+
+
+******************************************************
+********  Documentation Links ************************
+
+Grante-UI 6.3
+https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/reference-materials/granite-ui/api/jcr_root/libs/granite/ui/index.html
+
+ACS-Commons
+https://adobe-consulting-services.github.io/
+https://adobe-consulting-services.github.io/acs-aem-commons/
+https://adobe-consulting-services.github.io/acs-aem-tools/
+
+
+******************************************************
+********  Project Build Links ************************
+
+AEM Maven Archetype
+https://github.com/Adobe-Marketing-Cloud/aem-project-archetype
+
+
+******************************************************
+******** My Other AEM Plrualsight Courses ************
+
+https://app.pluralsight.com/library/courses/aem-fundamentals-building-projects/table-of-contents
+https://app.pluralsight.com/library/courses/develop-websites-components-aem/table-of-contents
+https://app.pluralsight.com/library/courses/develop-websites-components-aem-advanced/table-of-contents
+https://app.pluralsight.com/library/courses/extending-aem-advanced/table-of-contents

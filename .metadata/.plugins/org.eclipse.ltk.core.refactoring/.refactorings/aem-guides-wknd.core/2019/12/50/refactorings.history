@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;SimpleServlet.java&apos; to &apos;aem-guides-wknd.core/src/main/java/com.adobe.aem.guides.wknd.core.servlets&apos;&#x0D;&#x0A;- Original project: &apos;aem-guides-wknd.core&apos;&#x0D;&#x0A;- Destination element: &apos;aem-guides-wknd.core/src/main/java/com.adobe.aem.guides.wknd.core.servlets&apos;&#x0D;&#x0A;- Original element: &apos;com.adobe.aem.guides.wknd.core.servlets.SimpleServlet.java&apos;" description="Copy compilation unit" destination="/src\/main\/java&lt;com.adobe.aem.guides.wknd.core.servlets" element1="/src\/main\/java&lt;com.adobe.aem.guides.wknd.core.servlets{SimpleServlet.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1576067352781" units="1" version="1.0"/>
+</session>

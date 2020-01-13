@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-11-19T10:59:50.904+05:30"
+        cq:lastModifiedBy="admin"
+        cq:template="/conf/wknd/settings/wcm/templates/landing-page-aem-template"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Home"
+        jcr:uuid="52173db5-4883-44d5-b040-2d378eadb02d"
+        sling:resourceType="wknd/components/structure/page"
+        pageTitle="en">
+        <root
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="wcm/foundation/components/responsivegrid">
+            <responsivegrid
+                jcr:created="{Date}2019-11-19T10:45:55.309+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2019-11-19T10:45:59.561+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="wcm/foundation/components/responsivegrid"/>
+        </root>
+    </jcr:content>
+    <article-page/>
+    <sports/>
+</jcr:root>

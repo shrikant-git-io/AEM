@@ -1,0 +1,54 @@
+/* WKND Byline - default.less*/
+
+
+.cmp-byline {
+    .cmp-byline__image {
+        /* Align to the left of Name and Occupations */
+
+        .cmp-image__image {
+            /* This is the BEM class applied by the embedded Core Image component to the actual img tag 
+            Create a 60px x 60px, circular image
+            */
+        }
+    }
+
+    .cmp-byline__name {
+        /* Default text color */
+        /* Right of image */
+    }
+
+    .cmp-byline__occupations {
+        /* Color grey
+           All uppercase
+           Align right of image */
+    }
+}
+
+.cmp-byline {
+    @imageSize: 60px;
+
+    .cmp-byline__image {
+        float: left;
+
+/* This class targets a Core Component Image CSS class */
+        .cmp-image__image {
+            width: @imageSize;
+            height: @imageSize;
+            border-radius: @imageSize / 2;
+            object-fit: cover;
+        }
+    }
+
+    .cmp-byline__name {
+        margin-left: @imageSize + 20px;
+        margin-bottom: .25rem;
+    }
+
+    .cmp-byline__occupations {
+        margin-left: @imageSize + 20px;
+        color: @gray-light;
+        font-size: @font-size-small;
+        text-transform: uppercase;
+        font-weight: 600;
+    }
+}

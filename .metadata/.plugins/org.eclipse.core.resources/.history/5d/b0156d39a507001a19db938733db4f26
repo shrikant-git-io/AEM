@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="a3f6ca2e-2282-441d-b5dc-fa20fbded3aa">
+    <jcr:content
+        cq:name="fitness-tracker-future-futuristic-9051.jpg"
+        cq:parentPath="/content/dam/full-stack-training/article-images"
+        dam:assetState="processed"
+        dam:relativePath="full-stack-training/article-images/fitness-tracker-future-futuristic-9051.jpg"
+        jcr:lastModified="{Date}2019-11-15T13:49:30.247+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2019-11-15T13:49:29.697+05:30"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}72"
+            dam:Physicalheightininches="{Decimal}42.55555725097656"
+            dam:Physicalwidthindpi="{Long}72"
+            dam:Physicalwidthininches="{Decimal}63.77777862548828"
+            dam:Progressive="no"
+            dam:sha1="ef58478d7fb1632408e4b00170b631ff1030109e"
+            dam:size="{Long}821859"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2019-11-15T13:49:19.213+05:30"
+            jcr:lastModified="{Date}2019-11-15T13:49:19.213+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}3064"
+            tiff:ImageWidth="{Long}4592"/>
+        <related jcr:primaryType="nt:unstructured"/>
+        <usages
+            dam:score="{Long}1"
+            jcr:primaryType="nt:unstructured"
+            usedBy="[aem]">
+            <aem
+                jcr:primaryType="nt:unstructured"
+                count="{Long}1"
+                lastUsed="{Date}2018-08-11T20:08:42.126-06:00"/>
+        </usages>
+    </jcr:content>
+</jcr:root>

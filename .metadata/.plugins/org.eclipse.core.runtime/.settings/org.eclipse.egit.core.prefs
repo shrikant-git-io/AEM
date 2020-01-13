@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=D\:\\DBI\\david-bridal-aem\\.git;D\:\\AEMWorkspaces\\AEM-Building-Full-Stack-Components\\.git;D\:\\AEMWorkspaces\\Pluralsight-AEM-Building-Full-Stack-Components\\.git;
+GitRepositoriesView.GitDirectories.relative=D\:\\DBI\\david-bridal-aem\\.git;AEM-Building-Full-Stack-Components\\.git;Pluralsight-AEM-Building-Full-Stack-Components\\.git;
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1

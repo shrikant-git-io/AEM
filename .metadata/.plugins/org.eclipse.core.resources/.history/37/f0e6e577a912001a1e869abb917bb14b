@@ -1,0 +1,30 @@
+package com.adobe.aem.guides.wknd.core.listeners;
+
+import org.apache.felix.scr.annotations.Component;
+import org.apache.felix.scr.annotations.Property;
+import org.apache.felix.scr.annotations.Service;
+import org.apache.sling.event.jobs.consumer.JobConsumer;
+import org.osgi.service.event.Event;
+import org.osgi.service.event.EventHandler;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+import com.day.cq.replication.ReplicationAction;
+
+//https://helpx.adobe.com/experience-manager/using/replication_events.html
+@Component(immediate = true)
+@Service(value = EventHandler.class)
+@Property(name="event.topics", value = ReplicationAction.EVENT_TOPIC)
+public class ReplicationLogger implements EventHandler {
+	private final Logger logger = LoggerFactory.getLogger(getClass());
+
+
+
+	@Override
+	public void handleEvent(Event event) {
+		// TODO Auto-generated method stub
+		
+	}
+    
+	
+}

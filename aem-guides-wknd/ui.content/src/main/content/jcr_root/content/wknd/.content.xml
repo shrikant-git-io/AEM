@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <en/>
+    <fr/>
+    <jcr:content
+        cq:allowedTemplates="[/conf/wknd/settings/wcm/templates/.*]"
+        cq:deviceGroups="[/etc/mobile/groups/responsive]"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="WKND site"
+        jcr:uuid="d2099baa-6ada-4d19-a6b0-5797800bf6d9"
+        sling:redirect="{Boolean}true"
+        sling:redirectStatus="{Long}302"
+        sling:resourceType="foundation/components/redirect"
+        redirectTarget="/content/wknd/en">
+        <image jcr:primaryType="nt:unstructured">
+            <file/>
+        </image>
+    </jcr:content>
+    <home/>
+</jcr:root>

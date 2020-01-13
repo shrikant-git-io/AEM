@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-11-15T13:38:25.308+05:30"
+        cq:lastModifiedBy="admin"
+        cq:template="/conf/full-stack-training/settings/wcm/templates/article-page-template-"
+        jcr:primaryType="cq:PageContent"
+        sling:resourceType="full-stack-training/components/structure/article-page">
+        <root
+            jcr:lastModified="{Date}2019-11-15T13:18:06.271+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="wcm/foundation/components/responsivegrid">
+            <content_container
+                jcr:created="{Date}2019-11-15T12:05:54.855+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2019-11-15T12:05:54.855+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="full-stack-training/components/structure/content-container">
+                <content
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="wcm/foundation/components/responsivegrid">
+                    <image
+                        jcr:created="{Date}2019-11-15T13:18:24.616+05:30"
+                        jcr:createdBy="admin"
+                        jcr:lastModified="{Date}2019-11-15T13:38:25.303+05:30"
+                        jcr:lastModifiedBy="admin"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="full-stack-training/components/content/image"
+                        alt="art image"
+                        altValueFromDAM="false"
+                        displayPopupTitle="false"
+                        isDecorative="false"
+                        titleValueFromDAM="false"/>
+                </content>
+            </content_container>
+        </root>
+    </jcr:content>
+</jcr:root>

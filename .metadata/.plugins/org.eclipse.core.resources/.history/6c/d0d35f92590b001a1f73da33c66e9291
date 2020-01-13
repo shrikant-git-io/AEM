@@ -1,0 +1,36 @@
+package com.adobe.aem.guides.wknd.core.components.impl;
+
+import java.util.List;
+
+import org.apache.sling.api.SlingHttpServletRequest;
+import org.apache.sling.models.annotations.Model;
+import org.apache.sling.models.annotations.DefaultInjectionStrategy;
+
+import com.adobe.aem.guides.wknd.core.components.Byline;
+
+@Model(
+        adaptables = {SlingHttpServletRequest.class},
+        adapters = {Byline.class},
+        resourceType = {BylineImpl.RESOURCE_TYPE},
+        defaultInjectionStrategy = DefaultInjectionStrategy.OPTIONAL
+)
+public class BylineImpl implements Byline {
+
+ @Override
+ public String getName() {
+  // TODO Auto-generated method stub
+  return null;
+ }
+
+ @Override
+ public List<String> getOccupations() {
+  // TODO Auto-generated method stub
+  return null;
+ }
+
+ @Override
+ public boolean isEmpty() {
+  // TODO Auto-generated method stub
+  return false;
+ }
+}

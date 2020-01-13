@@ -1,0 +1,5 @@
+package com.adobe.aem.guides.wknd.core.components.impl;
+
+public class BylineImpl {
+
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.google.gson.Gson"/>
+<fullyQualifiedTypeName name="org.apache.sling.models.annotations.Model"/>
+<fullyQualifiedTypeName name="org.apache.sling.api.SlingHttpServletRequest"/>
+<fullyQualifiedTypeName name="org.apache.sling.models.annotations.injectorspecific.ValueMapValue"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="org.apache.commons.lang.StringUtils"/>
+<fullyQualifiedTypeName name="com.adobe.cq.wcm.core.components.models.Image"/>
+<fullyQualifiedTypeName name="org.apache.sling.models.annotations.injectorspecific.OSGiService"/>
+<fullyQualifiedTypeName name="org.apache.sling.models.factory.ModelFactory"/>
+<fullyQualifiedTypeName name="org.apache.sling.models.annotations.injectorspecific.Self"/>
+<fullyQualifiedTypeName name="javax.annotation.PostConstruct"/>
+</qualifiedTypeNameHistroy>

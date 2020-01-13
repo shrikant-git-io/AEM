@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;empty-page&apos; to &apos;template-types&apos;&#x0D;&#x0A;- Original project: &apos;full-stack-training.ui.content&apos;&#x0D;&#x0A;- Destination element: &apos;template-types&apos;&#x0D;&#x0A;- Original element: &apos;empty-page&apos;" description="Copy folder" element1="src/main/content/jcr_root/conf/full-stack-training/settings/wcm/template-types/empty-page" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1573796281429" target="/full-stack-training.ui.content/src/main/content/jcr_root/conf/full-stack-training/settings/wcm/template-types" units="0" version="1.0"/>
+</session>

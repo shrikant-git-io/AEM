@@ -1,0 +1,22 @@
+.cmp-byline {
+    .cmp-byline__image {
+        /* Align to the left of Name and Occupations */
+
+        .cmp-image__image {
+            /* This is the BEM class applied by the embedded Core Image component to the actual img tag 
+            Create a 60px x 60px, circular image
+            */
+        }
+    }
+
+    .cmp-byline__name {
+        /* Default text color */
+        /* Right of image */
+    }
+
+    .cmp-byline__occupations {
+        /* Color grey
+           All uppercase
+           Align right of image */
+    }
+}

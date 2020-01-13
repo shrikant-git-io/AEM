@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Node Example - Single Node</comment>
+<entry key="createdBy">shrikant.kumkar</entry>
+<entry key="name">example-node</entry>
+<entry key="created">2019-11-13T12:22:57.912+0530</entry>
+<entry key="groupId">com.scd</entry>
+<entry key="version">1.0</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">pluralsight.aemfundamentals</entry>
+<entry key="description">Example Package for Pluralsight course - AEM Fundamentals: Building from Proejcts in AEM</entry>
+<entry key="artifactId">example-node</entry>
+<entry key="path">/etc/packages/pluralsight.aemfundamentals/example-node.zip</entry>
+</properties>
