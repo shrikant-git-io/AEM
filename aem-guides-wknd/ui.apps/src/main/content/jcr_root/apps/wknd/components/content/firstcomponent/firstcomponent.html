@@ -1,0 +1,13 @@
+<div>
+<p>This is your AEM HTML Template Language component using Sling Models</p>
+ 
+<div data-sly-use.heroTextObject="com.adobe.aem.guides.wknd.core.components.FirstComponentModel" data-sly-test="${heroTextObject}">
+      <h1>${heroTextObject.heroTextBean.headingText}</h1>
+       <p><b>Description:</b> ${heroTextObject.heroTextBean.description}</p>
+       <p><b>Selected Path value:</b> ${heroTextObject.heroTextBean.path}</p>  
+       <p><b>Date:</b> ${heroTextObject.heroTextBean.date}</p> 
+       <p><b>Country:</b> ${heroTextObject.heroTextBean.type}</p>  
+       <p><b>Checkbox:</b> ${heroTextObject.heroTextBean.show}</p>    
+</div>
+ 
+</div>

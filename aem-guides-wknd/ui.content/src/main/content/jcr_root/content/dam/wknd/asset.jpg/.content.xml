@@ -6,7 +6,7 @@
     jcr:uuid="9281bbbd-dec4-4762-8072-2ed4e95a2841">
     <jcr:content
         dam:assetState="processed"
-        jcr:lastModified="{Date}2019-11-18T18:17:37.104+05:30"
+        jcr:lastModified="{Date}2019-12-12T11:37:33.294+05:30"
         jcr:lastModifiedBy="admin"
         jcr:mixinTypes="[cq:ReplicationStatus]"
         jcr:primaryType="dam:AssetContent">
@@ -14,7 +14,7 @@
             dam:Bitsperpixel="{Long}24"
             dam:ColorSpace="{Long}-1"
             dam:ExifOffset="{Long}232"
-            dam:extracted="{Date}2019-11-18T18:17:36.856+05:30"
+            dam:extracted="{Date}2019-12-12T11:37:30.258+05:30"
             dam:Fileformat="JPEG"
             dam:JpgFromRawLength="{Long}988"
             dam:JpgFromRawStart="{Long}382"
@@ -38,6 +38,8 @@
             jcr:mixinTypes="[cq:Taggable]"
             jcr:primaryType="nt:unstructured"
             photoshop:ColorMode="{Long}3"
+            tiff:BitsPerSample="{Long}[8,8,8]"
+            tiff:BitsPerSample_xmpArrayType="rdf:Seq"
             tiff:Compression="{Long}6"
             tiff:ImageLength="{Long}51"
             tiff:ImageWidth="{Long}940"

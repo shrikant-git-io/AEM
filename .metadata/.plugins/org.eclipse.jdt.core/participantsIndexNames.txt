@@ -1,3 +1,5 @@
 INDEX VERSION 1.131
 D:\AEMWorkspaces\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3701434001.index
 \full-stack-training.ui.apps\src\main\content\jcr_root
+D:\AEMWorkspaces\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2281679622.index
+\aem-guides-wknd.ui.apps\src\test\java

@@ -20,14 +20,7 @@
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/training.it.tests" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/training.it.launcher" type="4"/>
 </workingSet>
-<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1573713627691_6" label="full-stack-training" name="full-stack-training">
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Pluralsight-AEM-Building-Full-Stack-Components" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/full-stack-training.it.launcher" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/full-stack-training.core" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/full-stack-training.ui.apps" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/full-stack-training.ui.content" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/full-stack-training.it.tests" type="4"/>
-</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1573713627691_6" label="full-stack-training" name="full-stack-training"/>
 <workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1574070939916_7" label="aem-guides-wknd" name="aem-guides-wknd">
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/aem-guides-wknd.ui.apps" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/aem-guides-wknd.ui.content" type="4"/>

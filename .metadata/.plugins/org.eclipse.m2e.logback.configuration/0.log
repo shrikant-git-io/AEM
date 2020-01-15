@@ -12808,3 +12808,77 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.adobe.acs
 2020-01-08 15:30:26,335 [Worker-1146: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - No files found to validate, skipping.
 2020-01-08 15:30:26,338 [Worker-1146: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-01-08 15:30:26,338 [Worker-1146: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DBI\david-bridal-aem\ui.apps\src\test\resources
+2020-01-14 13:28:45,826 [Worker-1425: Starting Adobe Experience Manager at localhost] WARN  o.a.j.spi2dav.RepositoryServiceImpl - Authentication required to access repository descriptors
+2020-01-14 13:28:48,715 [Worker-1425: Starting Adobe Experience Manager at localhost] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2020-01-14 13:28:48,862 [Worker-1425: Starting Adobe Experience Manager at localhost] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2020-01-14 13:28:48,914 [Worker-1425: Starting Adobe Experience Manager at localhost] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2020-01-14 13:28:49,106 [Worker-1425: Starting Adobe Experience Manager at localhost] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2020-01-14 13:28:49,188 [Worker-1425: Starting Adobe Experience Manager at localhost] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2020-01-14 13:28:49,241 [Worker-1425: Starting Adobe Experience Manager at localhost] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2020-01-14 13:28:49,335 [Worker-1425: Starting Adobe Experience Manager at localhost] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2020-01-14 13:28:49,364 [Worker-1425: Starting Adobe Experience Manager at localhost] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2020-01-14 13:28:49,465 [Worker-1425: Starting Adobe Experience Manager at localhost] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2020-01-14 13:28:49,555 [Worker-1425: Starting Adobe Experience Manager at localhost] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2020-01-14 13:28:49,682 [Worker-1425: Starting Adobe Experience Manager at localhost] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2020-01-14 13:28:49,762 [Worker-1425: Starting Adobe Experience Manager at localhost] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2020-01-14 13:28:49,832 [Worker-1425: Starting Adobe Experience Manager at localhost] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2020-01-14 13:28:49,851 [Worker-1425: Starting Adobe Experience Manager at localhost] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2020-01-14 13:28:49,910 [Worker-1425: Starting Adobe Experience Manager at localhost] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2020-01-14 13:28:49,978 [Worker-1425: Starting Adobe Experience Manager at localhost] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2020-01-14 13:28:50,088 [Worker-1425: Starting Adobe Experience Manager at localhost] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2020-01-14 13:28:50,124 [Worker-1425: Starting Adobe Experience Manager at localhost] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2020-01-14 13:28:50,233 [Worker-1425: Starting Adobe Experience Manager at localhost] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2020-01-14 13:28:50,320 [Worker-1425: Starting Adobe Experience Manager at localhost] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2020-01-14 13:28:50,378 [Worker-1425: Starting Adobe Experience Manager at localhost] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2020-01-14 13:28:50,559 [Worker-1425: Starting Adobe Experience Manager at localhost] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2020-01-14 13:28:50,576 [Worker-1425: Starting Adobe Experience Manager at localhost] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2020-01-14 13:28:50,704 [Worker-1425: Starting Adobe Experience Manager at localhost] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2020-01-14 13:28:50,705 [Worker-1425: Starting Adobe Experience Manager at localhost] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2020-01-14 13:29:27,333 [Worker-1425: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/aem-guides-wknd.core: com.adobe.aem.guides:aem-guides-wknd.core:1.0-SNAPSHOT with classifier  to /aem-guides-wknd.core/target/classes
+2020-01-14 13:29:27,373 [Worker-1425: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-14 13:29:27,374 [Worker-1425: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-14 13:29:27,377 [Worker-1425: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Processed 0 files in 0 milliseconds
+2020-01-14 13:29:27,417 [Worker-1425: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-14 13:29:27,417 [Worker-1425: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\AEMWorkspaces\aem-guides-wknd\ui.apps\src\test\resources
+2020-01-14 13:34:12,970 [Worker-1427: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-14 13:34:12,971 [Worker-1427: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-14 13:34:12,972 [Worker-1427: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Processed 0 files in 1 milliseconds
+2020-01-14 13:34:12,975 [Worker-1427: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-14 13:34:12,975 [Worker-1427: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\AEMWorkspaces\aem-guides-wknd\ui.apps\src\test\resources
+2020-01-14 13:55:19,983 [Worker-1432: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-14 13:55:19,984 [Worker-1432: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-14 13:55:20,006 [Worker-1432: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Processed 5 files in 21 milliseconds
+2020-01-14 13:55:20,015 [Worker-1432: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-14 13:55:20,015 [Worker-1432: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\AEMWorkspaces\aem-guides-wknd\ui.apps\src\test\resources
+2020-01-14 13:58:48,002 [Worker-1427: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-14 13:58:48,002 [Worker-1427: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-14 13:58:48,003 [Worker-1427: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Processed 0 files in 1 milliseconds
+2020-01-14 13:58:48,008 [Worker-1427: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-14 13:58:48,008 [Worker-1427: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\AEMWorkspaces\aem-guides-wknd\ui.apps\src\test\resources
+2020-01-14 14:17:05,332 [Worker-1441: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-14 14:17:05,334 [Worker-1441: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-14 14:17:05,353 [Worker-1441: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Processed 6 files in 18 milliseconds
+2020-01-14 14:17:05,363 [Worker-1441: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-14 14:17:05,364 [Worker-1441: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\AEMWorkspaces\aem-guides-wknd\ui.apps\src\test\resources
+2020-01-14 14:17:11,867 [Worker-1445: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-14 14:17:11,867 [Worker-1445: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-14 14:17:11,868 [Worker-1445: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Processed 0 files in 0 milliseconds
+2020-01-14 14:17:11,871 [Worker-1445: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-14 14:17:11,871 [Worker-1445: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\AEMWorkspaces\aem-guides-wknd\ui.apps\src\test\resources
+2020-01-14 14:37:52,765 [Worker-1450: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-14 14:37:52,767 [Worker-1450: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-14 14:37:52,797 [Worker-1450: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Processed 6 files in 29 milliseconds
+2020-01-14 14:37:52,801 [Worker-1450: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-14 14:37:52,801 [Worker-1450: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\AEMWorkspaces\aem-guides-wknd\ui.apps\src\test\resources
+2020-01-14 17:21:19,476 [Worker-1499: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: pluralsight:full-stack-training.core:1.0-SNAPSHOT @ D:\AEMWorkspaces\AEM-Building-Full-Stack-Components\core\pom.xml.
+2020-01-14 17:21:19,560 [Worker-1499: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/full-stack-training.core: pluralsight:full-stack-training.core:1.0-SNAPSHOT with classifier  to /full-stack-training.core/target/classes
+2020-01-14 17:21:19,590 [Worker-1499: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/full-stack-training.core: pluralsight:full-stack-training.core:1.0-SNAPSHOT with classifier  to /full-stack-training.core/target/classes
+2020-01-14 17:21:19,624 [Worker-1499: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/full-stack-training.core: pluralsight:full-stack-training.core:1.0-SNAPSHOT with classifier  to /full-stack-training.core/target/classes
+2020-01-14 17:21:19,778 [Worker-1499: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/full-stack-training.it.tests: pluralsight:full-stack-training.it.tests:1.0-SNAPSHOT with classifier  to /full-stack-training.it.tests/target/classes
+2020-01-14 17:21:19,779 [Worker-1499: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/full-stack-training.core: pluralsight:full-stack-training.core:1.0-SNAPSHOT with classifier  to /full-stack-training.core/target/classes
+2020-01-14 17:21:20,032 [Worker-1499: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-14 17:21:20,033 [Worker-1499: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\AEMWorkspaces\AEM-Building-Full-Stack-Components\core\src\main\resources
+2020-01-14 17:21:20,034 [Worker-1499: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-14 17:21:20,034 [Worker-1499: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\AEMWorkspaces\AEM-Building-Full-Stack-Components\core\src\test\resources
+2020-01-14 17:21:20,676 [Worker-1501: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: pluralsight:full-stack-training.ui.apps:1.0-SNAPSHOT @ D:\AEMWorkspaces\AEM-Building-Full-Stack-Components\ui.apps\pom.xml.
+2020-01-14 17:21:20,692 [Worker-1501: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/full-stack-training.core: pluralsight:full-stack-training.core:1.0-SNAPSHOT with classifier  to /full-stack-training.core/target/classes

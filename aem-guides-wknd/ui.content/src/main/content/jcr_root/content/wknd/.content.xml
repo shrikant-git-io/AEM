@@ -20,4 +20,6 @@
         </image>
     </jcr:content>
     <home/>
+    <test-page/>
+    <login/>
 </jcr:root>

@@ -9702,3 +9702,1059 @@ java.lang.NullPointerException
 
 !ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-07 14:24:38.752
 !MESSAGE Browserslist: caniuse-lite is outdated. Please run next command `npm update`
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-14 13:28:45.832
+!MESSAGE Authentication required to access repository descriptors
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-14 13:28:48.716
+!MESSAGE ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-14 13:28:48.863
+!MESSAGE ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-14 13:28:48.914
+!MESSAGE ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-14 13:28:49.107
+!MESSAGE ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-14 13:28:49.189
+!MESSAGE ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-14 13:28:49.241
+!MESSAGE ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-14 13:28:49.335
+!MESSAGE ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-14 13:28:49.364
+!MESSAGE ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-14 13:28:49.465
+!MESSAGE ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-14 13:28:49.555
+!MESSAGE ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-14 13:28:49.682
+!MESSAGE ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-14 13:28:49.762
+!MESSAGE ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-14 13:28:49.832
+!MESSAGE ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-14 13:28:49.852
+!MESSAGE ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-14 13:28:49.911
+!MESSAGE ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-14 13:28:49.978
+!MESSAGE ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-14 13:28:50.089
+!MESSAGE ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-14 13:28:50.125
+!MESSAGE ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-14 13:28:50.234
+!MESSAGE ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-14 13:28:50.321
+!MESSAGE ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-14 13:28:50.378
+!MESSAGE ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-14 13:28:50.560
+!MESSAGE ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-14 13:28:50.576
+!MESSAGE ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-14 13:28:50.705
+!MESSAGE ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-14 13:28:50.705
+!MESSAGE ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+
+!ENTRY org.eclipse.core.expressions 4 201 2020-01-14 13:56:27.019
+!MESSAGE No property tester contributes a property org.eclipse.wst.jsdt.chromium.debug.core.isJsFile to type class org.apache.sling.ide.eclipse.ui.nav.model.JcrNode
+!STACK 1
+org.eclipse.core.runtime.CoreException: No property tester contributes a property org.eclipse.wst.jsdt.chromium.debug.core.isJsFile to type class org.apache.sling.ide.eclipse.ui.nav.model.JcrNode
+	at org.eclipse.core.internal.expressions.TypeExtensionManager.getProperty(TypeExtensionManager.java:130)
+	at org.eclipse.core.internal.expressions.TestExpression.evaluate(TestExpression.java:100)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:55)
+	at org.eclipse.core.internal.expressions.AndExpression.evaluate(AndExpression.java:34)
+	at org.eclipse.ui.internal.dialogs.RegistryPageContributor.failsEnablement(RegistryPageContributor.java:284)
+	at org.eclipse.ui.internal.dialogs.RegistryPageContributor.isApplicableTo(RegistryPageContributor.java:227)
+	at org.eclipse.ui.internal.dialogs.PropertyPageContributorManager.getApplicableContributors(PropertyPageContributorManager.java:218)
+	at org.eclipse.ui.internal.dialogs.PropertyPageContributorManager.getApplicableContributors(PropertyPageContributorManager.java:237)
+	at org.eclipse.ui.dialogs.PropertyDialogAction.hasPropertyPagesFor(PropertyDialogAction.java:104)
+	at org.eclipse.ui.dialogs.PropertyDialogAction.isApplicableForSelection(PropertyDialogAction.java:145)
+	at org.eclipse.ui.dialogs.PropertyDialogAction.isApplicableForSelection(PropertyDialogAction.java:126)
+	at org.eclipse.ui.internal.navigator.resources.actions.PropertiesActionProvider.fillContextMenu(PropertiesActionProvider.java:63)
+	at org.eclipse.ui.navigator.NavigatorActionService$2.run(NavigatorActionService.java:228)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.navigator.NavigatorActionService.addCommonActionProviderMenu(NavigatorActionService.java:222)
+	at org.eclipse.ui.navigator.NavigatorActionService.fillContextMenu(NavigatorActionService.java:177)
+	at org.eclipse.ui.navigator.CommonNavigatorManager.fillContextMenu(CommonNavigatorManager.java:258)
+	at org.eclipse.ui.navigator.CommonNavigatorManager.lambda$1(CommonNavigatorManager.java:270)
+	at org.eclipse.ui.navigator.CommonNavigatorManager$$Lambda$371/431528483.menuAboutToShow(Unknown Source)
+	at org.eclipse.jface.action.MenuManager.fireAboutToShow(MenuManager.java:341)
+	at org.eclipse.jface.action.MenuManager.handleAboutToShow(MenuManager.java:471)
+	at org.eclipse.jface.action.MenuManager.access$1(MenuManager.java:466)
+	at org.eclipse.jface.action.MenuManager$2.menuShown(MenuManager.java:498)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:259)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4173)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1081)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1062)
+	at org.eclipse.swt.widgets.Control.WM_INITMENUPOPUP(Control.java:5134)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4790)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:348)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1501)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2138)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4812)
+	at org.eclipse.swt.internal.win32.OS.TrackPopupMenu(Native Method)
+	at org.eclipse.swt.widgets.Menu._setVisible(Menu.java:253)
+	at org.eclipse.swt.widgets.Display.runPopups(Display.java:4027)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3579)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1160)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1049)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:633)
+	at org.eclipse.ui.internal.Workbench$$Lambda$98/1827239708.run(Unknown Source)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:557)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:660)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:597)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1468)
+!SUBENTRY 1 org.eclipse.core.expressions 4 201 2020-01-14 13:56:27.020
+!MESSAGE No property tester contributes a property org.eclipse.wst.jsdt.chromium.debug.core.isJsFile to type class org.apache.sling.ide.eclipse.ui.nav.model.JcrNode
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 13:58:39.126
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root/apps/wknd/components/content/login, jcrPath:/apps/wknd/components/content/login]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 13:58:47.880
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root/apps/wknd/components/content/login, jcrPath:/apps/wknd/components/content/login]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 13:58:47.885
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root/apps/wknd/components/content/login, jcrPath:/apps/wknd/components/content/login]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 13:58:47.933
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root/apps/wknd/components/content/login, jcrPath:/apps/wknd/components/content/login]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 13:58:53.937
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root/apps/wknd/components/content/login, jcrPath:/apps/wknd/components/content/login]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 13:58:55.494
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root/apps/wknd/components/content/login, jcrPath:/apps/wknd/components/content/login]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 14:17:05.200
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 14:17:05.785
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 14:17:05.852
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 14:17:07.061
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 14:17:07.826
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/aem-guides-wknd.ui.apps/src/main/content/jcr_root/apps/wknd/components/content/login/login.jsp, jcrPath:/apps/wknd/components/content/login/login.jsp]
+
+!ENTRY org.eclipse.core.expressions 4 201 2020-01-14 14:17:08.153
+!MESSAGE No property tester contributes a property org.eclipse.wst.jsdt.chromium.debug.core.isJsFile to type class org.apache.sling.ide.eclipse.ui.nav.model.JcrNode
+!STACK 1
+org.eclipse.core.runtime.CoreException: No property tester contributes a property org.eclipse.wst.jsdt.chromium.debug.core.isJsFile to type class org.apache.sling.ide.eclipse.ui.nav.model.JcrNode
+	at org.eclipse.core.internal.expressions.TypeExtensionManager.getProperty(TypeExtensionManager.java:130)
+	at org.eclipse.core.internal.expressions.TestExpression.evaluate(TestExpression.java:100)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:55)
+	at org.eclipse.core.internal.expressions.AndExpression.evaluate(AndExpression.java:34)
+	at org.eclipse.ui.internal.dialogs.RegistryPageContributor.failsEnablement(RegistryPageContributor.java:284)
+	at org.eclipse.ui.internal.dialogs.RegistryPageContributor.isApplicableTo(RegistryPageContributor.java:227)
+	at org.eclipse.ui.internal.dialogs.PropertyPageContributorManager.getApplicableContributors(PropertyPageContributorManager.java:218)
+	at org.eclipse.ui.internal.dialogs.PropertyPageContributorManager.getApplicableContributors(PropertyPageContributorManager.java:237)
+	at org.eclipse.ui.dialogs.PropertyDialogAction.hasPropertyPagesFor(PropertyDialogAction.java:104)
+	at org.eclipse.ui.dialogs.PropertyDialogAction.isApplicableForSelection(PropertyDialogAction.java:145)
+	at org.eclipse.ui.dialogs.PropertyDialogAction.isApplicableForSelection(PropertyDialogAction.java:126)
+	at org.eclipse.ui.internal.navigator.resources.actions.PropertiesActionProvider.fillContextMenu(PropertiesActionProvider.java:63)
+	at org.eclipse.ui.navigator.NavigatorActionService$2.run(NavigatorActionService.java:228)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.navigator.NavigatorActionService.addCommonActionProviderMenu(NavigatorActionService.java:222)
+	at org.eclipse.ui.navigator.NavigatorActionService.fillContextMenu(NavigatorActionService.java:177)
+	at org.eclipse.ui.navigator.CommonNavigatorManager.fillContextMenu(CommonNavigatorManager.java:258)
+	at org.eclipse.ui.navigator.CommonNavigatorManager.lambda$1(CommonNavigatorManager.java:270)
+	at org.eclipse.ui.navigator.CommonNavigatorManager$$Lambda$371/431528483.menuAboutToShow(Unknown Source)
+	at org.eclipse.jface.action.MenuManager.fireAboutToShow(MenuManager.java:341)
+	at org.eclipse.jface.action.MenuManager.handleAboutToShow(MenuManager.java:471)
+	at org.eclipse.jface.action.MenuManager.access$1(MenuManager.java:466)
+	at org.eclipse.jface.action.MenuManager$2.menuShown(MenuManager.java:498)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:259)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4173)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1081)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1062)
+	at org.eclipse.swt.widgets.Control.WM_INITMENUPOPUP(Control.java:5134)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4790)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:348)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1501)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2138)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4812)
+	at org.eclipse.swt.internal.win32.OS.TrackPopupMenu(Native Method)
+	at org.eclipse.swt.widgets.Menu._setVisible(Menu.java:253)
+	at org.eclipse.swt.widgets.Display.runPopups(Display.java:4027)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3579)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1160)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1049)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:633)
+	at org.eclipse.ui.internal.Workbench$$Lambda$98/1827239708.run(Unknown Source)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:557)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:660)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:597)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1468)
+!SUBENTRY 1 org.eclipse.core.expressions 4 201 2020-01-14 14:17:08.154
+!MESSAGE No property tester contributes a property org.eclipse.wst.jsdt.chromium.debug.core.isJsFile to type class org.apache.sling.ide.eclipse.ui.nav.model.JcrNode
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 14:37:52.500
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 14:37:52.700
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 14:37:52.762
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 14:37:54.336
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 14:43:35.732
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/aem-guides-wknd.ui.apps/src/main/content/jcr_root/apps/wknd/components/content/login/login.html, jcrPath:/apps/wknd/components/content/login/login.html]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 14:43:36.332
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/aem-guides-wknd.ui.apps/src/main/content/jcr_root/apps/wknd/components/content/login/login.html, jcrPath:/apps/wknd/components/content/login/login.html]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 15:23:57.544
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/aem-guides-wknd.ui.apps/src/main/content/jcr_root/apps/wknd/components/content/login/login.html, jcrPath:/apps/wknd/components/content/login/login.html]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 15:23:57.603
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/aem-guides-wknd.ui.apps/src/main/content/jcr_root/apps/wknd/components/content/login/login.html, jcrPath:/apps/wknd/components/content/login/login.html]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 15:23:59.341
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/aem-guides-wknd.ui.apps/src/main/content/jcr_root/apps/wknd/components/content/byline/byline.html, jcrPath:/apps/wknd/components/content/byline/byline.html]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 15:24:00.036
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/aem-guides-wknd.ui.apps/src/main/content/jcr_root/apps/wknd/components/content/byline/byline.html, jcrPath:/apps/wknd/components/content/byline/byline.html]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 15:25:22.863
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/aem-guides-wknd.ui.apps/src/main/content/jcr_root/apps/wknd/components/content/byline/byline.html, jcrPath:/apps/wknd/components/content/byline/byline.html]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 15:25:22.891
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/aem-guides-wknd.ui.apps/src/main/content/jcr_root/apps/wknd/components/content/byline/byline.html, jcrPath:/apps/wknd/components/content/byline/byline.html]
+
+!ENTRY org.eclipse.core.resources 4 567 2020-01-14 17:19:40.412
+!MESSAGE The project description file (.project) for 'full-stack-training.core' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+!STACK 0
+java.lang.Exception: The project description file (.project) for 'full-stack-training.core' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:907)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:888)
+	at org.eclipse.core.internal.resources.SaveManager.restore(SaveManager.java:763)
+	at org.eclipse.core.internal.resources.Project.open(Project.java:1056)
+	at org.eclipse.core.internal.resources.Project.open(Project.java:1102)
+	at org.eclipse.ui.actions.OpenResourceAction$1.doOpenWithReferences(OpenResourceAction.java:233)
+	at org.eclipse.ui.actions.OpenResourceAction$1.runInWorkspace(OpenResourceAction.java:279)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 4 567 2020-01-14 17:19:46.334
+!MESSAGE The project description file (.project) for 'Pluralsight-AEM-Building-Full-Stack-Components' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+!STACK 0
+java.lang.Exception: The project description file (.project) for 'Pluralsight-AEM-Building-Full-Stack-Components' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:907)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:888)
+	at org.eclipse.core.internal.resources.SaveManager.restore(SaveManager.java:763)
+	at org.eclipse.core.internal.resources.Project.open(Project.java:1056)
+	at org.eclipse.core.internal.resources.Project.open(Project.java:1102)
+	at org.eclipse.ui.actions.OpenResourceAction$1.doOpenWithReferences(OpenResourceAction.java:233)
+	at org.eclipse.ui.actions.OpenResourceAction$1.runInWorkspace(OpenResourceAction.java:279)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 4 567 2020-01-14 17:19:58.553
+!MESSAGE The project description file (.project) for 'full-stack-training.core' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+!STACK 0
+java.lang.Exception: The project description file (.project) for 'full-stack-training.core' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:907)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:888)
+	at org.eclipse.core.internal.resources.SaveManager.restore(SaveManager.java:763)
+	at org.eclipse.core.internal.resources.Project.open(Project.java:1056)
+	at org.eclipse.core.internal.resources.Project.open(Project.java:1102)
+	at org.eclipse.ui.actions.OpenResourceAction$1.doOpenWithReferences(OpenResourceAction.java:233)
+	at org.eclipse.ui.actions.OpenResourceAction$1.runInWorkspace(OpenResourceAction.java:279)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:14.661
+!MESSAGE Preparing classpath changed notification full-stack-training.core
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:14.662
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:14.666
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:14.667
+!MESSAGE buffering callback sts4.classpath.eMXRJSQM full-stack-training.core false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:14.667
+!MESSAGE executing callback sts4.classpath.eMXRJSQM 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:14.746
+!MESSAGE executing callback sts4.classpath.eMXRJSQM SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:14.821
+!MESSAGE Preparing classpath changed notification full-stack-training.ui.apps
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:14.821
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:14.823
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:14.824
+!MESSAGE buffering callback sts4.classpath.eMXRJSQM full-stack-training.ui.apps false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:14.824
+!MESSAGE executing callback sts4.classpath.eMXRJSQM 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:14.925
+!MESSAGE executing callback sts4.classpath.eMXRJSQM SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:16.876
+!MESSAGE Preparing classpath changed notification full-stack-training.it.launcher
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:16.904
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:17.078
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:17.078
+!MESSAGE buffering callback sts4.classpath.eMXRJSQM full-stack-training.it.launcher false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:17.079
+!MESSAGE Preparing classpath changed notification full-stack-training.it.tests
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:17.079
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:17.080
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:17.081
+!MESSAGE buffering callback sts4.classpath.eMXRJSQM full-stack-training.it.tests false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:17.081
+!MESSAGE Preparing classpath changed notification full-stack-training.ui.content
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:17.082
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:17.083
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:17.084
+!MESSAGE buffering callback sts4.classpath.eMXRJSQM full-stack-training.ui.content false 21
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:17.084
+!MESSAGE executing callback sts4.classpath.eMXRJSQM 3 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:17.232
+!MESSAGE executing callback sts4.classpath.eMXRJSQM SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:20.155
+!MESSAGE Preparing classpath changed notification full-stack-training.core
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:20.155
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:20.158
+!MESSAGE classpath=38 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:20.159
+!MESSAGE buffering callback sts4.classpath.eMXRJSQM full-stack-training.core false 38
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:20.160
+!MESSAGE executing callback sts4.classpath.eMXRJSQM 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:20.224
+!MESSAGE executing callback sts4.classpath.eMXRJSQM SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:21.262
+!MESSAGE Preparing classpath changed notification full-stack-training.ui.apps
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:21.263
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:21.264
+!MESSAGE classpath=26 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:21.265
+!MESSAGE buffering callback sts4.classpath.eMXRJSQM full-stack-training.ui.apps false 26
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:21.266
+!MESSAGE executing callback sts4.classpath.eMXRJSQM 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:21.376
+!MESSAGE executing callback sts4.classpath.eMXRJSQM SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:23.216
+!MESSAGE Preparing classpath changed notification full-stack-training.it.launcher
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:23.217
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:23.220
+!MESSAGE classpath=47 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:23.221
+!MESSAGE buffering callback sts4.classpath.eMXRJSQM full-stack-training.it.launcher false 47
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:23.221
+!MESSAGE executing callback sts4.classpath.eMXRJSQM 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:23.312
+!MESSAGE executing callback sts4.classpath.eMXRJSQM SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:24.975
+!MESSAGE Preparing classpath changed notification full-stack-training.it.tests
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:25.044
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:25.046
+!MESSAGE classpath=30 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:25.047
+!MESSAGE buffering callback sts4.classpath.eMXRJSQM full-stack-training.it.tests false 30
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:25.048
+!MESSAGE executing callback sts4.classpath.eMXRJSQM 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:25.178
+!MESSAGE executing callback sts4.classpath.eMXRJSQM SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:26.632
+!MESSAGE Preparing classpath changed notification full-stack-training.ui.content
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:26.633
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:26.635
+!MESSAGE classpath=24 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:26.636
+!MESSAGE buffering callback sts4.classpath.eMXRJSQM full-stack-training.ui.content false 24
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:26.636
+!MESSAGE executing callback sts4.classpath.eMXRJSQM 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:21:26.865
+!MESSAGE executing callback sts4.classpath.eMXRJSQM SUCCESS [done]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 17:22:27.818
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/full-stack-training.ui.apps/src/main/content/jcr_root/apps/full-stack-training/components/content/articlefeed/articlefeed.html, jcrPath:/apps/full-stack-training/components/content/articlefeed/articlefeed.html]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 17:22:28.337
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/full-stack-training.ui.apps/src/main/content/jcr_root/apps/full-stack-training/components/content/articlefeed/articlefeed.html, jcrPath:/apps/full-stack-training/components/content/articlefeed/articlefeed.html]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 17:23:00.773
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/full-stack-training.ui.apps/src/main/content/jcr_root/apps/full-stack-training/components/content/articlefeed/articlefeed.html, jcrPath:/apps/full-stack-training/components/content/articlefeed/articlefeed.html]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 17:23:00.792
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/full-stack-training.ui.apps/src/main/content/jcr_root/apps/full-stack-training/components/content/articlefeed/articlefeed.html, jcrPath:/apps/full-stack-training/components/content/articlefeed/articlefeed.html]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 17:34:55.794
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/full-stack-training.ui.apps/src/main/content/jcr_root/apps/full-stack-training/components/content/articlefeed/articlefeed.html, jcrPath:/apps/full-stack-training/components/content/articlefeed/articlefeed.html]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 17:35:06.697
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/aem-guides-wknd.ui.apps/src/main/content/jcr_root/apps/wknd/components/content/byline/byline.html, jcrPath:/apps/wknd/components/content/byline/byline.html]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 17:35:07.124
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/aem-guides-wknd.ui.apps/src/main/content/jcr_root/apps/wknd/components/content/byline/byline.html, jcrPath:/apps/wknd/components/content/byline/byline.html]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 17:35:17.351
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/aem-guides-wknd.ui.apps/src/main/content/jcr_root/apps/wknd/components/content/byline/byline.html, jcrPath:/apps/wknd/components/content/byline/byline.html]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 17:35:17.399
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/aem-guides-wknd.ui.apps/src/main/content/jcr_root/apps/wknd/components/content/byline/byline.html, jcrPath:/apps/wknd/components/content/byline/byline.html]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 17:35:22.297
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/full-stack-training.ui.apps/src/main/content/jcr_root/apps/full-stack-training/components/content/articlefeed/articlefeed.html, jcrPath:/apps/full-stack-training/components/content/articlefeed/articlefeed.html]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 17:35:22.633
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/full-stack-training.ui.apps/src/main/content/jcr_root/apps/full-stack-training/components/content/articlefeed/articlefeed.html, jcrPath:/apps/full-stack-training/components/content/articlefeed/articlefeed.html]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 17:35:30.602
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/full-stack-training.ui.apps/src/main/content/jcr_root/apps/full-stack-training/components/content/articlefeed/articlefeed.html, jcrPath:/apps/full-stack-training/components/content/articlefeed/articlefeed.html]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 17:35:30.629
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/full-stack-training.ui.apps/src/main/content/jcr_root/apps/full-stack-training/components/content/articlefeed/articlefeed.html, jcrPath:/apps/full-stack-training/components/content/articlefeed/articlefeed.html]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 17:35:36.303
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/full-stack-training.ui.apps/src/main/content/jcr_root/apps/full-stack-training/components/content/articlefeed/articlefeed.html, jcrPath:/apps/full-stack-training/components/content/articlefeed/articlefeed.html]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 17:35:54.893
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/full-stack-training.ui.apps/src/main/content/jcr_root/apps/full-stack-training/components/content/articlefeed/articlefeed.html, jcrPath:/apps/full-stack-training/components/content/articlefeed/articlefeed.html]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 17:35:54.929
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/full-stack-training.ui.apps/src/main/content/jcr_root/apps/full-stack-training/components/content/articlefeed/articlefeed.html, jcrPath:/apps/full-stack-training/components/content/articlefeed/articlefeed.html]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 17:35:59.056
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/full-stack-training.ui.apps/src/main/content/jcr_root/apps/full-stack-training/components/content/articlefeed/clientlib/js/articlefeed.js, jcrPath:/apps/full-stack-training/components/content/articlefeed/clientlib/js/articlefeed.js]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 17:35:59.937
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/full-stack-training.ui.apps/src/main/content/jcr_root/apps/full-stack-training/components/content/articlefeed/clientlib/js/articlefeed.js, jcrPath:/apps/full-stack-training/components/content/articlefeed/clientlib/js/articlefeed.js]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 17:36:01.936
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/full-stack-training.ui.apps/src/main/content/jcr_root/apps/full-stack-training/components/content/articlefeed/clientlib/js/articlefeed.js, jcrPath:/apps/full-stack-training/components/content/articlefeed/clientlib/js/articlefeed.js]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 17:36:01.954
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/full-stack-training.ui.apps/src/main/content/jcr_root/apps/full-stack-training/components/content/articlefeed/clientlib/js/articlefeed.js, jcrPath:/apps/full-stack-training/components/content/articlefeed/clientlib/js/articlefeed.js]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 17:36:02.122
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/full-stack-training.ui.apps/src/main/content/jcr_root/apps/full-stack-training/components/content/articlefeed/clientlib/js/articleLogic.js, jcrPath:/apps/full-stack-training/components/content/articlefeed/clientlib/js/articleLogic.js]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 17:36:02.615
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/full-stack-training.ui.apps/src/main/content/jcr_root/apps/full-stack-training/components/content/articlefeed/clientlib/js/articleLogic.js, jcrPath:/apps/full-stack-training/components/content/articlefeed/clientlib/js/articleLogic.js]
+
+!ENTRY org.eclipse.lsp4e 4 0 2020-01-14 17:36:03.247
+!MESSAGE 
+!STACK 0
+java.lang.InterruptedException
+	at java.util.concurrent.CompletableFuture.reportGet(Unknown Source)
+	at java.util.concurrent.CompletableFuture.get(Unknown Source)
+	at org.eclipse.lsp4e.operations.hover.LSPTextHover.getHoverInfo(LSPTextHover.java:108)
+	at org.eclipse.wst.jsdt.internal.ui.text.java.hover.GenericTextHover.lambda$4(GenericTextHover.java:90)
+	at org.eclipse.wst.jsdt.internal.ui.text.java.hover.GenericTextHover$$Lambda$1812/7596341.apply(Unknown Source)
+	at java.util.stream.ReferencePipeline$3$1.accept(Unknown Source)
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(Unknown Source)
+	at java.util.stream.AbstractPipeline.copyInto(Unknown Source)
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source)
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(Unknown Source)
+	at java.util.stream.AbstractPipeline.evaluate(Unknown Source)
+	at java.util.stream.ReferencePipeline.collect(Unknown Source)
+	at org.eclipse.wst.jsdt.internal.ui.text.java.hover.GenericTextHover.getHoverInfo(GenericTextHover.java:90)
+	at org.eclipse.wst.jsdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getHoverInfo2(AbstractJavaEditorTextHover.java:99)
+	at org.eclipse.wst.jsdt.internal.ui.text.java.hover.GenericTextHover.getHoverInfo2(GenericTextHover.java:112)
+	at org.eclipse.wst.jsdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:149)
+	at org.eclipse.wst.jsdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:81)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 17:36:09.705
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/full-stack-training.ui.apps/src/main/content/jcr_root/apps/full-stack-training/components/content/articlefeed/clientlib/js/articleLogic.js, jcrPath:/apps/full-stack-training/components/content/articlefeed/clientlib/js/articleLogic.js]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-14 17:36:09.721
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/full-stack-training.ui.apps/src/main/content/jcr_root/apps/full-stack-training/components/content/articlefeed/clientlib/js/articleLogic.js, jcrPath:/apps/full-stack-training/components/content/articlefeed/clientlib/js/articleLogic.js]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:31.085
+!MESSAGE Preparing classpath changed notification project-example.core
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:31.088
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:31.101
+!MESSAGE classpath=36 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:31.103
+!MESSAGE buffering callback sts4.classpath.eMXRJSQM project-example.core false 36
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:31.103
+!MESSAGE Preparing classpath changed notification project-example.examplebundle
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:31.104
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:31.106
+!MESSAGE classpath=36 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:31.110
+!MESSAGE buffering callback sts4.classpath.eMXRJSQM project-example.examplebundle false 36
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:31.110
+!MESSAGE Preparing classpath changed notification project-example.it.launcher
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:31.110
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:31.113
+!MESSAGE classpath=45 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:31.115
+!MESSAGE buffering callback sts4.classpath.eMXRJSQM project-example.it.launcher false 45
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:31.115
+!MESSAGE Preparing classpath changed notification project-example.it.tests
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:31.117
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:31.119
+!MESSAGE classpath=30 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:31.120
+!MESSAGE buffering callback sts4.classpath.eMXRJSQM project-example.it.tests false 30
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:31.121
+!MESSAGE Preparing classpath changed notification project-example.ui.apps
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:31.121
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:31.123
+!MESSAGE classpath=29 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:31.124
+!MESSAGE buffering callback sts4.classpath.eMXRJSQM project-example.ui.apps false 29
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:31.124
+!MESSAGE executing callback sts4.classpath.eMXRJSQM 5 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:31.586
+!MESSAGE executing callback sts4.classpath.eMXRJSQM SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:31.587
+!MESSAGE Preparing classpath changed notification project-example.ui.content
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:31.587
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:31.589
+!MESSAGE classpath=25 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:31.590
+!MESSAGE buffering callback sts4.classpath.eMXRJSQM project-example.ui.content false 25
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:31.590
+!MESSAGE executing callback sts4.classpath.eMXRJSQM 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:31.678
+!MESSAGE executing callback sts4.classpath.eMXRJSQM SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:35.112
+!MESSAGE Preparing classpath changed notification project-example.ui.apps
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:35.112
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:35.114
+!MESSAGE classpath=29 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:35.115
+!MESSAGE buffering callback sts4.classpath.eMXRJSQM project-example.ui.apps false 29
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:35.116
+!MESSAGE executing callback sts4.classpath.eMXRJSQM 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:35.160
+!MESSAGE executing callback sts4.classpath.eMXRJSQM SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:35.181
+!MESSAGE Preparing classpath changed notification project-example.examplebundle
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:35.182
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:35.184
+!MESSAGE classpath=36 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:35.186
+!MESSAGE buffering callback sts4.classpath.eMXRJSQM project-example.examplebundle false 36
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:35.186
+!MESSAGE executing callback sts4.classpath.eMXRJSQM 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:35.220
+!MESSAGE executing callback sts4.classpath.eMXRJSQM SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:35.248
+!MESSAGE Preparing classpath changed notification project-example.it.launcher
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:35.249
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:35.251
+!MESSAGE classpath=45 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:35.253
+!MESSAGE buffering callback sts4.classpath.eMXRJSQM project-example.it.launcher false 45
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:35.253
+!MESSAGE executing callback sts4.classpath.eMXRJSQM 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:35.284
+!MESSAGE executing callback sts4.classpath.eMXRJSQM SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:35.355
+!MESSAGE Preparing classpath changed notification project-example.core
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:35.355
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:35.358
+!MESSAGE classpath=36 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:35.360
+!MESSAGE buffering callback sts4.classpath.eMXRJSQM project-example.core false 36
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:35.360
+!MESSAGE executing callback sts4.classpath.eMXRJSQM 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:35.401
+!MESSAGE executing callback sts4.classpath.eMXRJSQM SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:35.416
+!MESSAGE Preparing classpath changed notification project-example.it.tests
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:35.416
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:35.418
+!MESSAGE classpath=30 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:35.419
+!MESSAGE buffering callback sts4.classpath.eMXRJSQM project-example.it.tests false 30
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:35.419
+!MESSAGE executing callback sts4.classpath.eMXRJSQM 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:37:35.455
+!MESSAGE executing callback sts4.classpath.eMXRJSQM SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:11.533
+!MESSAGE Preparing classpath changed notification aem-advanced-dialogs.core
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:11.533
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:11.536
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:11.537
+!MESSAGE buffering callback sts4.classpath.eMXRJSQM aem-advanced-dialogs.core false 37
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:11.538
+!MESSAGE Preparing classpath changed notification aem-advanced-dialogs.it.launcher
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:11.538
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:11.541
+!MESSAGE classpath=47 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:11.542
+!MESSAGE buffering callback sts4.classpath.eMXRJSQM aem-advanced-dialogs.it.launcher false 47
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:11.542
+!MESSAGE Preparing classpath changed notification aem-advanced-dialogs.it.tests
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:11.543
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:11.545
+!MESSAGE classpath=30 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:11.547
+!MESSAGE buffering callback sts4.classpath.eMXRJSQM aem-advanced-dialogs.it.tests false 30
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:11.547
+!MESSAGE Preparing classpath changed notification aem-advanced-dialogs.ui.apps
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:11.547
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:11.549
+!MESSAGE classpath=26 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:11.552
+!MESSAGE buffering callback sts4.classpath.eMXRJSQM aem-advanced-dialogs.ui.apps false 26
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:11.552
+!MESSAGE Preparing classpath changed notification aem-advanced-dialogs.ui.content
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:11.553
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:11.555
+!MESSAGE classpath=24 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:11.556
+!MESSAGE buffering callback sts4.classpath.eMXRJSQM aem-advanced-dialogs.ui.content false 24
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:11.556
+!MESSAGE executing callback sts4.classpath.eMXRJSQM 5 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:11.764
+!MESSAGE executing callback sts4.classpath.eMXRJSQM SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:13.483
+!MESSAGE Preparing classpath changed notification aem-advanced-dialogs.core
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:13.483
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:13.486
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:13.487
+!MESSAGE buffering callback sts4.classpath.eMXRJSQM aem-advanced-dialogs.core false 37
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:13.487
+!MESSAGE executing callback sts4.classpath.eMXRJSQM 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:13.504
+!MESSAGE executing callback sts4.classpath.eMXRJSQM SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:15.231
+!MESSAGE Preparing classpath changed notification aem-advanced-dialogs.it.tests
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:15.232
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:15.234
+!MESSAGE classpath=30 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:15.235
+!MESSAGE buffering callback sts4.classpath.eMXRJSQM aem-advanced-dialogs.it.tests false 30
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:15.235
+!MESSAGE Preparing classpath changed notification aem-advanced-dialogs.it.launcher
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:15.236
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:15.240
+!MESSAGE classpath=47 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:15.241
+!MESSAGE buffering callback sts4.classpath.eMXRJSQM aem-advanced-dialogs.it.launcher false 47
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:15.241
+!MESSAGE executing callback sts4.classpath.eMXRJSQM 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:15.272
+!MESSAGE executing callback sts4.classpath.eMXRJSQM SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:15.747
+!MESSAGE Preparing classpath changed notification aem-advanced-dialogs.ui.apps
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:15.748
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:15.749
+!MESSAGE classpath=26 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:15.751
+!MESSAGE buffering callback sts4.classpath.eMXRJSQM aem-advanced-dialogs.ui.apps false 26
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:15.753
+!MESSAGE executing callback sts4.classpath.eMXRJSQM 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-14 17:38:15.795
+!MESSAGE executing callback sts4.classpath.eMXRJSQM SUCCESS [done]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 13:05:16.971
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:L/full-stack-training.ui.apps/src/main/content/jcr_root/apps/full-stack-training/components/content/articlefeed/clientlib/js/articleLogic.js, jcrPath:/apps/full-stack-training/components/content/articlefeed/clientlib/js/articleLogic.js]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 13:37:43.705
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 13:37:43.913
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 13:37:43.970
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 13:37:44.008
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 13:37:45.435
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 13:37:45.978
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 13:41:07.790
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root/apps/wknd/components/content/firstcomponent, jcrPath:/apps/wknd/components/content/firstcomponent]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 13:41:07.934
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root/apps/wknd/components/content/firstcomponent, jcrPath:/apps/wknd/components/content/firstcomponent]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 13:42:24.191
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root/apps/wknd/components/content/firstcomponent, jcrPath:/apps/wknd/components/content/firstcomponent]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 13:42:24.392
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root/apps/wknd/components/content/firstcomponent, jcrPath:/apps/wknd/components/content/firstcomponent]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 13:44:26.308
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root/apps/wknd/components/content/firstcomponent, jcrPath:/apps/wknd/components/content/firstcomponent]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 13:44:26.510
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root/apps/wknd/components/content/firstcomponent, jcrPath:/apps/wknd/components/content/firstcomponent]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 13:57:48.260
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root/apps/wknd/components/content/firstcomponent, jcrPath:/apps/wknd/components/content/firstcomponent]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 13:57:48.499
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root/apps/wknd/components/content/firstcomponent, jcrPath:/apps/wknd/components/content/firstcomponent]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 14:41:59.172
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 14:41:59.293
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 14:41:59.348
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 14:41:59.369
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 14:42:00.480
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-15 14:43:37.169
+!MESSAGE Manifest com.adobe.aem.guides:aem-guides-wknd.core:bundle:1.0-SNAPSHOT : The default package '.' is not permitted by the Import-Package syntax.
+ This can be caused by compile errors in Eclipse because Eclipse creates
+valid class files regardless of compile errors.
+The following package(s) import from the default package [com.adobe.aem.guides.wknd.core.components]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-15 14:43:37.170
+!MESSAGE Error(s) found in manifest configuration
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-15 14:45:48.579
+!MESSAGE Manifest com.adobe.aem.guides:aem-guides-wknd.core:bundle:1.0-SNAPSHOT : NoClassDefFoundError: HeroTextBean
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-15 14:45:48.580
+!MESSAGE Manifest com.adobe.aem.guides:aem-guides-wknd.core:bundle:1.0-SNAPSHOT : The default package '.' is not permitted by the Import-Package syntax.
+ This can be caused by compile errors in Eclipse because Eclipse creates
+valid class files regardless of compile errors.
+The following package(s) import from the default package [com.adobe.aem.guides.wknd.core.components]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-15 14:45:48.580
+!MESSAGE Error(s) found in manifest configuration
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-15 14:46:34.253
+!MESSAGE Manifest com.adobe.aem.guides:aem-guides-wknd.core:bundle:1.0-SNAPSHOT : NoClassDefFoundError: HeroTextBean
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-15 14:46:34.253
+!MESSAGE Manifest com.adobe.aem.guides:aem-guides-wknd.core:bundle:1.0-SNAPSHOT : The default package '.' is not permitted by the Import-Package syntax.
+ This can be caused by compile errors in Eclipse because Eclipse creates
+valid class files regardless of compile errors.
+The following package(s) import from the default package [com.adobe.aem.guides.wknd.core.components]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-15 14:46:34.253
+!MESSAGE Error(s) found in manifest configuration
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-15 14:49:17.522
+!MESSAGE Manifest com.adobe.aem.guides:aem-guides-wknd.core:bundle:1.0-SNAPSHOT : NoClassDefFoundError: HeroTextBean
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-15 14:49:17.523
+!MESSAGE Manifest com.adobe.aem.guides:aem-guides-wknd.core:bundle:1.0-SNAPSHOT : The default package '.' is not permitted by the Import-Package syntax.
+ This can be caused by compile errors in Eclipse because Eclipse creates
+valid class files regardless of compile errors.
+The following package(s) import from the default package [com.adobe.aem.guides.wknd.core.components]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-15 14:49:17.523
+!MESSAGE Error(s) found in manifest configuration
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-15 14:49:22.091
+!MESSAGE Manifest com.adobe.aem.guides:aem-guides-wknd.core:bundle:1.0-SNAPSHOT : NoClassDefFoundError: HeroTextBean
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-15 14:49:22.092
+!MESSAGE Manifest com.adobe.aem.guides:aem-guides-wknd.core:bundle:1.0-SNAPSHOT : The default package '.' is not permitted by the Import-Package syntax.
+ This can be caused by compile errors in Eclipse because Eclipse creates
+valid class files regardless of compile errors.
+The following package(s) import from the default package [com.adobe.aem.guides.wknd.core.components]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-01-15 14:49:22.092
+!MESSAGE Error(s) found in manifest configuration
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 15:03:09.946
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 15:03:10.130
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 15:03:10.219
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 15:03:11.477
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 15:32:49.552
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root/apps/wknd, jcrPath:/apps/wknd]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 15:32:49.690
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root/apps/wknd, jcrPath:/apps/wknd]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 15:32:49.725
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root/apps/wknd, jcrPath:/apps/wknd]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 15:32:51.283
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root/apps/wknd, jcrPath:/apps/wknd]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 15:35:36.472
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/aem-guides-wknd.ui.content/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 15:36:00.036
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 15:36:00.177
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 15:36:00.208
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2020-01-15 15:36:01.089
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/aem-guides-wknd.ui.apps/src/main/content/jcr_root, jcrPath:/]
